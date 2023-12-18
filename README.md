@@ -1,6 +1,6 @@
 # Microsoft Graph Event Grid change notifications sample for Node.js
 
-![License.](https://img.shields.io/badge/license-MIT-green.svg)
+[![npm build](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-typescript/actions/workflows/node.yml/badge.svg)](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-typescript/actions/workflows/node.yml) ![License.](https://img.shields.io/badge/license-MIT-green.svg)
 
 Subscribe for [Microsoft Graph change notifications](https://learn.microsoft.com/graph/api/resources/webhooks) to be notified when your user's data changes, so you don't have to poll for changes.
 
