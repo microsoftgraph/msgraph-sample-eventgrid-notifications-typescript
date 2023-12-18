@@ -1,6 +1,19 @@
 {
   "cSpell.words": [
+    "Entra",
     "eventgrid",
     "tsdoc"
+  ],
+  "cSpell.ignoreWords": [
+    "appsettings",
+    "azuresubscriptionid",
+    "devtunnel",
+    "eastus",
+    "partnertopic",
+    "resourcegroup",
+    "resourcenotfound",
+    "subscriptionreauthorizationrequired",
+    "userdeleted",
+    "userupdated"
   ]
 }
