@@ -144,10 +144,10 @@ A dev tunnel will allow Azure Event Grid to reach the sample running on your dev
     devtunnel create --allow-anonymous
     ```
 
-1. Run the following command to assign the sample's port (7198) to the tunnel. Replace `tunnel-id` with the **Tunnel ID** copied in the previous step.
+1. Run the following command to assign the sample's port (3000) to the tunnel. Replace `tunnel-id` with the **Tunnel ID** copied in the previous step.
 
     ```bash
-    devtunnel port create tunnel-id -p 7198 --protocol https
+    devtunnel port create tunnel-id -p 3000
     ```
 
 1. Run the following command to host the tunnel. Replace `tunnel-id` with the **Tunnel ID** copied in the previous step.
