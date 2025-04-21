@@ -34,7 +34,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@azure/identity": "^4.8.0",
+    "@azure/identity": "^4.9.0",
     "@microsoft/microsoft-graph-client": "^3.0.7",
     "dotenv-flow": "^4.1.0",
     "express": "^4.21.2",
