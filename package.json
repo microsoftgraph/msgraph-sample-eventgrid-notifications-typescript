@@ -20,7 +20,7 @@
   "homepage": "https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-typescript#readme",
   "devDependencies": {
     "@microsoft/microsoft-graph-types": "^2.43.1",
-    "@types/express": "^4.17.21",
+    "@types/express": "^5.0.6",
     "@types/node": "^20.17.57",
     "@typescript-eslint/eslint-plugin": "^8.51.0",
     "@typescript-eslint/parser": "^8.51.0",
@@ -37,7 +37,7 @@
     "@azure/identity": "^4.13.0",
     "@microsoft/microsoft-graph-client": "^3.0.7",
     "dotenv-flow": "^4.1.0",
-    "express": "^4.22.1",
+    "express": "^5.2.1",
     "express-promise-router": "^4.1.1"
   }
 }
